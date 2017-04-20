@@ -1,0 +1,24 @@
+
+
+Team name : Y-Bob
+Project : Anypong 퍼즐 게임
+
+Timeline : 4/20 ~ 4/24, 발표 4/25 10:00
+
+코딩규칙
+1. 변수명
+1) 멤버변수 : m_nXx,m_arrXxx, m_pPpp
+2) 매개변수 : nXx,arrXxx, pPpp
+3) 함수명 : getValue()
+4) class : Class
+5) const : 멤버변수를 함수내에서 변경치 않는 함수 //int getValue() const;
+6) 주석은 자세히 각 함수 위에 쓸것, for 문 로직 범위
+7) 복수로 쓰이는 상수 정의는 될수있는한 많이 #define MAX_SIZE 50
+
+업무분담
+
+1. 오세헌 : Graphic 관련 기능
+2. 이상민 : mouse, music 등등 추가기능들
+3. 김상훈 : Main 콘트롤,쓰레드, 인터페이스 구현
+
+
